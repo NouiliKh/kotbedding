@@ -1,2 +1,2 @@
 # kotbedding
-A main.kotlin library that allows the use of embedding models
+A project that allows the use of embedding models
